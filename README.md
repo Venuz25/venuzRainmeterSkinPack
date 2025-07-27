@@ -52,4 +52,4 @@ Estas modificaciones no habrían sido posibles sin los impresionantes trabajos p
 ## Notas Finales
 
 - Puedes mover, modificar o desactivar cualquier módulo desde el panel de control de Rainmeter.
-- Si algún autor original desea que su trabajo sea removido de este paquete, por favor contáctame y será atendido con prioridad.
+- Si algún autor original desea que su trabajo sea removido de este paquete, por favor contáctame.
