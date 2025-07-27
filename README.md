@@ -1,13 +1,16 @@
-# Rainmeter Skin Pack - Modificaciones Unificadas
+# Rainmeter Skin Pack
 
 ![Preview](./Examples/example1.png)
 
 ## Descripción
 
 Este repositorio contiene un paquete de skins para [Rainmeter](https://www.rainmeter.net/) que he modificado con el objetivo de unificar su estética y funcionalidad.  
-> ⚠️ **Importante:** Estas *no son creaciones originales*, sino adaptaciones de skins ya existentes, realizadas únicamente con fines de organización, personalización visual y mejora de la experiencia de usuario.
+  
+`La versión actual aún se encuentra en desarrollo y representa una versión primitiva o temprana del proyecto. Se irán añadiendo mejoras y nuevas funcionalidades en futuras actualizaciones.`
   
 [![Descargar Skin](https://img.shields.io/badge/Descargar_CustomDesktop_1.0.rmskin-00aaff?style=for-the-badge&logo=rainmeter&logoColor=white)](./customDesktop_1.0.rmskin)
+
+> ⚠️ **Importante:** Estas *no son creaciones originales*, sino adaptaciones de skins ya existentes, realizadas únicamente con fines de organización, personalización visual y mejora de la experiencia de usuario.
 
 ---
 
@@ -25,7 +28,7 @@ Este repositorio contiene un paquete de skins para [Rainmeter](https://www.rainm
 
 ## Reconocimiento a Autores Originales
 
-Estas modificaciones no habrían sido posibles sin los impresionantes trabajos publicados por los siguientes creadores:
+Estas modificaciones no habrían sido posibles sin los trabajos publicados por los respectivos creadores de cada tema:
 
 | Skin | Autor | Enlace |
 |--------|----------|-----------|
