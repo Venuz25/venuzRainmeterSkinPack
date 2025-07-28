@@ -3,26 +3,26 @@
 Language=English
 Location=MXDF0132
 Unit=m
-Format=H
+Format=%#I:%M
 
 ; Mouse increment
 ScrollMouseIncrement=0.05
 ScrollMouseIncrement2=50
 
 ; Visibility
-Hidden=0
-Hidden2=1
+Hidden=1
+Hidden2=0
 
 ; Player music
 Player=Winamp
 
 ; Colors
 Color1=255,255,255
-Color2=255,255,255
-Color3=212,0,205
+Color2=13,13,13
+Color3=217,47,143
 
 ; Date event
 Day=3
 Month=5
 Year=2026
-Event=aniversario pareja
+textEvent=aniversario
