@@ -26,3 +26,10 @@ Day=3
 Month=5
 Year=2026
 textEvent=aniversario
+
+; Img Notes
+IMGNotes=6.png
+
+; Slides show
+IMGFolder=IMGFolder='C:\Users\Areli Guevara\OneDrive\Im???genes\Wallpapers'
+PreserveRatio=2
