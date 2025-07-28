@@ -30,12 +30,13 @@ Este repositorio contiene un paquete de skins para [Rainmeter](https://www.rainm
 
 Estas modificaciones no habrían sido posibles sin los trabajos publicados por los respectivos creadores de cada tema:
 
-| Skin | Autor | Enlace |
+| Skin | Autor | Enlace Skin Original|
 |--------|----------|-----------|
 | **Sonder Rainmeter Theme** | Connect-R | [VisualSkins](https://visualskins.com/skin/sonder) |
 | **Aries Pack** | Aiden.Jair | [DeviantArt](https://www.deviantart.com/aidendrew/art/Aries-Pack-903982509) |
 | **Ahri Pack 1.0** | ijoemski | [DeviantArt](https://www.deviantart.com/ijoemski/art/Ahri-Pack-1-0-375008587) |
 | **Cantarell** | ApexXx-SenSei | [DeviantArt](https://www.deviantart.com/apexxx-sensei/art/Cantarell-770482237) |
+| **July Flat'ish 2.0** | evertonstz | [DeviantArt](https://www.deviantart.com/evertonstz/art/July-Flat-ish-2-0-429262245) |
 
 > Todos los derechos sobre los diseños originales pertenecen exclusivamente a sus respectivos autores.  
 > Esta recopilación y modificación es de carácter personal y sin fines comerciales.
