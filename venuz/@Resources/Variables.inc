@@ -26,7 +26,7 @@ Color3=250,155,176
 Day=25
 Month=5
 Year=2026
-textEvent=aniversario
+textEvent=<3
 
 ; Img Notes
 IMGNotes=5.png
