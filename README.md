@@ -8,7 +8,7 @@ Este repositorio contiene un paquete de skins para [Rainmeter](https://www.rainm
   
 `La versión actual aún se encuentra en desarrollo y representa una versión primitiva o temprana del proyecto. Se irán añadiendo mejoras y nuevas funcionalidades en futuras actualizaciones.`
   
-[![Descargar Skin](https://img.shields.io/badge/Descargar_la_ultima_versión-00aaff?style=for-the-badge&logo=rainmeter&logoColor=white)](./cutomDesktop1.2.rmskin)
+[![Descargar Skin](https://img.shields.io/badge/Descargar_la_ultima_versión-00aaff?style=for-the-badge&logo=rainmeter&logoColor=white)](./cutomDesktop1.25.rmskin)
 
 > ⚠️ **Importante:** Estas *no son creaciones originales*, sino adaptaciones de skins ya existentes, realizadas únicamente con fines de organización, personalización visual y mejora de la experiencia de usuario.
 
