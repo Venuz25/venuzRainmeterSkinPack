@@ -1,5 +1,5 @@
-﻿<title>Pendientes</title>
+﻿<title>Notas</title>
 <notes>
-• Get up at 6 o'clock.
+• nada por ahora
 
 </notes>
