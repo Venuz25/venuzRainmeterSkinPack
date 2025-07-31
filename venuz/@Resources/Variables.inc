@@ -19,14 +19,14 @@ Player=Spotify
 
 ; Colors
 Color1=255,255,255
-Color2=13,13,13
-Color3=106,121,235
+Color2=20,20,20
+Color3=89,206,217
 
 ; Date event
-Day=25
-Month=5
-Year=2026
-textEvent=<3
+Day=24
+Month=8
+Year=2025
+textEvent=Regreso a clases
 
 ; Slides show
 IMGFolder4=none
@@ -35,4 +35,4 @@ IMGFolder1=none
 time=60
 
 ; Img Notes
-IMGNotes=#@#img\4.png
+IMGNotes=#@#img\5.png

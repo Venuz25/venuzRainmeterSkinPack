@@ -9,7 +9,7 @@ Este proyecto unifica, adapta y mejora diversos módulos de skins existentes, in
 
 > La versión actual es funcional y se considera estable. Sin embargo, el proyecto sigue abierto a mejoras, nuevas funcionalidades y sugerencias.
 
-[![Descargar Skin](https://img.shields.io/badge/Descargar_la_ultima_versión-00aaff?style=for-the-badge&logo=rainmeter&logoColor=white)](./versiones/venuzPackV1.3.rmskin)
+[![Descargar Skin](https://img.shields.io/badge/Descargar_la_ultima_versión-00aaff?style=for-the-badge&logo=rainmeter&logoColor=white)](./versiones/venuzPackV1.4.rmskin)
 
 ---
 
