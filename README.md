@@ -22,11 +22,12 @@ Widgets de reloj en distintos estilos visuales y tamaños, ideales para diferent
 <div align="center">
   <img src="./Examples/reloj1.png" width="30%">
   <img src="./Examples/reloj2.png" width="30%">
-  <img src="./Examples/reloj3.png" width="30%">
   <br>
   <img src="./Examples/reloj4.png" width="30%">
   <img src="./Examples/reloj5.png" width="30%">
   <img src="./Examples/reloj6.png" width="30%">
+  <br>
+  <img src="./Examples/reloj3.png" width="30%">
   <img src="./Examples/reloj7.png" width="30%">
 </div>
 
@@ -36,19 +37,11 @@ Widgets de reloj en distintos estilos visuales y tamaños, ideales para diferent
 
 Un calendario compacto y moderno para visualizar rápidamente fechas importantes.
 
-<div align="center">
-  <img src="./Examples/calendario.png" width="40%">
-</div>
-
 ---
 
 ### Notas
 
 Módulo sencillo para tomar notas rápidas desde el escritorio.
-
-<div align="center">
-  <img src="./Examples/nota.png" width="40%">
-</div>
 
 ---
 
@@ -66,19 +59,12 @@ Reproductores de imágenes en formato 1:1, 4:3 y 3:4, con selección de carpetas
 
 Visualizador dinámico de audio compatible con reproductores populares como Spotify, AIMP o el Reproductor de Windows.
 
-<div align="center">
-  <img src="./Examples/visualizador.png" width="60%">
-</div>
-
 ---
 
 ### Barra de Sistema
 
 Una barra superior (o inferior) con widgets de información del sistema: batería, CPU, RAM, red, volumen, almacenamiento, etc.
 
-<div align="center">
-  <img src="./Examples/barrasistema.png" width="80%">
-</div>
 
 ---
 
@@ -93,7 +79,7 @@ Panel visual para configurar los siguientes aspectos sin necesidad de editar los
 - Icono visible en notas
 
 <div align="center">
-  <img src="./Examples/settings.png" width="40%">
+  <img src="./Examples/settings.png" width="60%">
 </div>
 
 ---
@@ -120,7 +106,7 @@ Visualiza cómo puede organizarse el pack en distintos entornos:
 ## Instalación
 
 1. Descarga e instala [Rainmeter](https://www.rainmeter.net/).
-2. Descarga el archivo `.rmskin` desde la sección de versiones.
+2. Descarga el archivo de la versión mas reciente.
 3. Ejecuta el archivo y sigue el instalador automático.
 4. Activa las skins desde el **Rainmeter Manager**.
 5. Personaliza desde la interfaz de configuración.
