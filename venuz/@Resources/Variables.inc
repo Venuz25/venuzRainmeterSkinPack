@@ -15,12 +15,12 @@ Hidden2=0
 IconSetting=1
 
 ; Player music
-Player=Winamp
+Player=Spotify
 
 ; Colors
 Color1=255,255,255
 Color2=13,13,13
-Color3=54,72,209
+Color3=106,121,235
 
 ; Date event
 Day=25
@@ -29,8 +29,10 @@ Year=2026
 textEvent=<3
 
 ; Slides show
-IMGFolder=none
+IMGFolder4=none
+IMGFolder3=none
+IMGFolder1=none
 time=60
 
 ; Img Notes
-IMGNotes=3.png
+IMGNotes=#@#img\4.png

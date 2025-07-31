@@ -1,5 +1,6 @@
 ﻿<title>Notas</title>
 <notes>
-• nada por ahora
-
+• Estudiar ingles
+• Practicar 30m en guitarra
+• Avanzar el curso
 </notes>

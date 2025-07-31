@@ -1,20 +1,17 @@
 param (
-    [string]$VariableName = "IMGNotes"
+    [string]$VariableName = "IMGFolder1"
 )
 
 Add-Type -AssemblyName System.Windows.Forms
 
 try {
-    $dialog = New-Object System.Windows.Forms.OpenFileDialog
-    $dialog.Title = "Selecciona una imagen"
-    $dialog.Filter = "Archivos de imagen|*.png;*.jpg;*.jpeg;*.bmp;*.gif"
+    $folderBrowser = New-Object System.Windows.Forms.FolderBrowserDialog
+    $folderBrowser.Description = "Selecciona una carpeta para $VariableName"
 
-    $base = Split-Path $MyInvocation.MyCommand.Path
-    $skinRoot = Resolve-Path (Join-Path $base "..")
-    $dialog.InitialDirectory = Join-Path $skinRoot.Path "@Resources\img"
-
-    if ($dialog.ShowDialog() -eq "OK") {
-        $selectedPath = $dialog.FileName
+    if ($folderBrowser.ShowDialog() -eq "OK") {
+        $selectedPath = $folderBrowser.SelectedPath
+        $base = Split-Path $MyInvocation.MyCommand.Path
+        $skinRoot = Resolve-Path (Join-Path $base "..")
         $incPath = Join-Path $skinRoot.Path "@Resources\Variables.inc"
 
         if (-not (Test-Path $incPath)) {
@@ -37,6 +34,7 @@ try {
         if (-not $modificado) {
             $resultado += "$VariableName=$selectedPath"
         }
+
         $resultado | Out-File -Encoding Default $incPath
 
         Start-Process "C:\Program Files\Rainmeter\Rainmeter.exe" -ArgumentList "!RefreshApp"
