@@ -134,3 +134,8 @@ Este pack es una adaptación de skins de distintos autores. Todos los créditos 
 - Puedes mover, modificar o desactivar cualquier módulo desde el panel de Rainmeter.
 - Los usuarios pueden crear fácilmente sus propios temas personalizados con los componentes incluidos.
 
+---
+
+<div align="center">
+<strong>© 2025 | Areli Guevara</strong>
+</div>
